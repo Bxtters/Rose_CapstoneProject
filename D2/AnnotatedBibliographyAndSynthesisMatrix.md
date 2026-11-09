@@ -2,7 +2,7 @@ Annotated Bibliography:
 
   Bxtters. (n.d.). BeeMoving. Github. Retrieved https://github.com/Bxtters/BeeMoving
 
-    This is a repository created by Grok 4.7 that shows how the main gameplay of the game will work. It maps out the player's joints and movements, and translates that into real time inputs. This is an essential source in order to create a API that is simple and very friendly to use due to its nature of adding on to the existing MOCAP.
+  This is a repository created by Grok 4.7 that shows how the main gameplay of the game will work. It maps out the player's joints and movements, and translates that into real time inputs. This is an essential source in order to create a API that is simple and very friendly to use due to its nature of adding on to the existing MOCAP.
 
 Kim, W. (n.d.). Spatial-Demo-Run-Master. Retrieved https://github.com/wonkee-kim/spatial-demo-run-master
  
